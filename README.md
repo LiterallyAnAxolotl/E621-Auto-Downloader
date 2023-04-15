@@ -9,8 +9,10 @@ YiffScraper is an automatic downloader for e621.net, a website for furry artwork
 - Stash organization with customizable names and timestamps
 - Automatic URL generation based on your preferences
 
-##Screenshots
-![Startup Screen](https://axolotl.loves-cats.club/insert-funny-meme-here/x0sdah5x.png)
+## Screenshots
+![Startup Screen](/screenshots/startup.png)
+![Generating](/screenshots/genning.png)
+![Tag Builder](/screenshots/tagbuilder.gif)
 
 ## Installation
 Clone the repository or download the script as a ZIP file.
