@@ -15,13 +15,9 @@ YiffScraper is an automatic downloader for e621.net, a website for furry artwork
 ![Tag Builder](/screenshots/tagbuilder.gif)
 
 ## Installation
-Clone the repository or download the script as a ZIP file.
+stop being retarded and figure it out
 
-```
-git clone https://github.com/yourusername/YiffScraper.git
-```
-
-Install Python 3.6 or higher, if you haven't already. You can download Python from the official website.
+Install Python 3.11 or higher, if you haven't already. You can download Python from the official website.
 
 Install the required libraries by running the following command in your terminal or command prompt:
  
